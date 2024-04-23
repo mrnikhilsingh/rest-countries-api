@@ -181,15 +181,3 @@ select {
   outline: none;
   cursor: pointer;
 }
-
-/* .filter-button i {
-  font-size: 1.5rem;
-} */
-
-.filter-button option {
-  position: absolute;
-  top: 14rem;
-  border: none;
-  outline: none;
-  background-color: var(--element-color);
-}
