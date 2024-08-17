@@ -1,5 +1,5 @@
 # REST Countries API with color theme switcher
 
-![NS Coffee Preview](https://github.com/mrnikhilsingh/rest-countries-api/blob/main/assets/screenshots/desktop-preview.jpg)
+![Desktop Design](https://github.com/mrnikhilsingh/rest-countries-api/blob/main/assets/screenshot/desktop-preview.jpg)
 
-![NS Coffee Preview](https://github.com/mrnikhilsingh/rest-countries-api/blob/main/assets/screenshots/mobile-design-dark.jpg)
+![Mobile Design](https://github.com/mrnikhilsingh/rest-countries-api/blob/main/assets/screenshot/mobile-design-dark.jpg)
